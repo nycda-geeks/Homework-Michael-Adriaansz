@@ -1,10 +1,12 @@
 body {
 	font-family: sans-serif
-	margin: 10px;
+	margin: 200px;
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/2/20/Saimiri_sciureus-1_Luc_Viatour.jpg");
+}
 
+.container {
+	background-color: green;
+	height: 200px;
 }
 div {
-
-
-p:hover
 }
